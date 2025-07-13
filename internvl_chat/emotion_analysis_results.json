@@ -1,0 +1,402 @@
+{
+  "samplenew3_00000058": {
+    "subtitle": "凭他的处境不妙",
+    "emotional_analysis": "The woman appears to be speaking with a serious expression, suggesting a situation that requires her to address an important point. The man, who is listening attentively, has a neutral expression, indicating he is listening with interest but not actively engaged in the conversation.",
+    "emotion_words": "[serious, speaking, listening]",
+    "openset": "[concern, pessimism]",
+    "reason": "In the text, the subtitle reads: \"Given his precarious situation.\" Based on the description of the individual's trembling voice and tone indicating feeling overwhelmed or under a lot of pressure in the audio clues, as well as the calm and composed facial expression, focused gaze, and body language of the woman in the video clues, we can infer that this sentence may be the woman's evaluation or reaction to the man's situation. The woman's calm and focused demeanor suggests that she remains calm during the conversation and may have an understanding of the man's predicament. Therefore, this sentence may indicate the woman's concern or pessimistic view of the man's situation, contrasting with the overall positive emotions displayed by the woman.",
+    "processed_at": "2025-07-13T03:20:08.390835"
+  },
+  "samplenew3_00000084": {
+    "subtitle": "别喝了好吗",
+    "emotional_analysis": "The woman appears concerned and distressed, while the man maintains a serious expression. The tension between them escalates as she becomes increasingly upset, indicating a growing sense of urgency and concern.",
+    "emotion_words": "[upset, concerned, distressed]",
+    "openset": "[concern, advice, care, dissatisfaction, worry]",
+    "reason": "In the text, the subtitle content says, \"Please stop drinking.\" This sentence is likely spoken by the woman to the man. Based on the audio clues describing the individual's high pitch and excited tone of voice, as well as the video clues of the woman's curiosity, concern, and distrust, we can infer that this sentence may have a tone of concern or advice. The woman may express dissatisfaction or worry about the man's behavior or decision and hopes that he will stop drinking. Therefore, this sentence may be an expression of care and advice from the woman to the man, aligning with the overall emotional state displayed by the woman.",
+    "processed_at": "2025-07-13T03:20:10.206605"
+  },
+  "samplenew3_00000139": {
+    "subtitle": "你跟建明到底想干什么呀你们",
+    "emotional_analysis": "The woman appears to be in a state of deep thought or contemplation, as she looks slightly to her left, indicating she is engaged in an internal conversation. Her expression is serious, and her eyes are slightly narrowed, suggesting she is processing something with considerable thought. There is no significant change in her facial expression throughout the frames, maintaining a contemplative demeanor.",
+    "emotion_words": "[serious, contemplative, concerned, thoughtful]",
+    "openset": "[anxious, dissatisfied, confused, worried, melancholic, frustrated, angry, loss of control]",
+    "reason": "In the text, the subtitle reads, \"What are you and Jianming up to?\" This sentence is likely the woman's questioning or confusion towards the person next to her. Based on the woman's sad or contemplative state shown in the video clues, as well as the individual's feelings of frustration, anger, and loss of control in the audio clues, we can infer that this sentence may carry an anxious or dissatisfied tone. The woman may feel confused and worried about the actions or plans of the person next to her, hence expressing this questioning. This sentence aligns with the woman's overall display of melancholic state and negative emotions.",
+    "processed_at": "2025-07-13T03:20:12.549273"
+  },
+  "samplenew3_00000151": {
+    "subtitle": "如果遇上了也没有办法",
+    "emotional_analysis": "视频中的主要角色是一位身着军装的女性，她表现出一种坚定且严肃的情绪。在视频的多个镜头中，她的面部表情显示出困惑和无奈。她的眼神坚定，似乎在思考或面对某种困境。她的嘴唇紧闭，表情中透露出一种坚决和不屈的意志。角色的姿态显示出她可能正处于一个重要的决策时刻或面对一个挑战性的局面。整个视频中，她的表情和肢体语言都传达出一种深思熟虑和决心面对困难的态度。",
+    "emotion_words": "['determined', 'frustrated', 'serious']",
+    "openset": "[helplessness, powerlessness, sadness, frustration, anxiety]",
+    "reason": "In the text, the subtitle says: \"If you encounter it, there is no way.\" Based on the serious expression of the woman and the professional environment in the video clues, as well as the feeling of sadness, frustration, and anxiety in the individual in the audio clues, it can be inferred that this sentence may be the woman's response to a difficulty or challenge, expressing her helplessness and powerlessness in solving the problem. This is consistent with the emotional state described in the video and audio clues.",
+    "processed_at": "2025-07-13T03:20:15.923219"
+  },
+  "samplenew3_00000195": {
+    "subtitle": "感动朕的人朕绝不轻饶",
+    "emotional_analysis": "The man is looking down and then back up with a focused expression, indicating concentration or contemplation. The woman's expression remains calm and attentive, suggesting a supportive role.",
+    "emotion_words": "[concentrated, focused, attentive]",
+    "openset": "[anger, determination]",
+    "reason": "In the text, the subtitle reads: \"Those who move me will never be forgiven.\" This sentence may be the man expressing his determination or attitude. Based on the description of the aggressive tone and strong language in the audio clues, as well as the serious expression and direct gaze of the man in the video clues, we can infer that this sentence may carry a sense of firmness and determination. It may express the man's determination towards those who have moved him, implying that he will not easily forgive or let go of those who have touched him. Therefore, this sentence may reflect the man's anger or resolute emotional state.",
+    "processed_at": "2025-07-13T03:20:17.501649"
+  },
+  "samplenew3_00000220": {
+    "subtitle": "那不就是那电视剧那射雕英雄传里那梅超风",
+    "emotional_analysis": "The man is looking down with a thoughtful expression, indicating he might be contemplating something serious. His facial expression and body language suggest he is deeply engaged in the conversation.",
+    "emotion_words": "[serious, thoughtful, concerned]",
+    "openset": "[excited, love]",
+    "reason": "In the text, the subtitle reads: \"Isn't that Mei Chaofeng from the TV drama The Legend of the Condor Heroes?\" Based on the description of the speaker's high-pitched and excited voice in the audio clues, as well as the mention of the TV drama \"The Legend of the Condor Heroes\" and the character Mei Chaofeng in the subtitle, we can infer that the speaker is excitedly discussing or mentioning their favorite TV drama and the character in it. This excited emotion aligns with the positive emotions described in the audio clues. Therefore, this sentence expresses the speaker's love and excitement for the TV drama and the character, aligning with the positive emotions described in the audio clues.",
+    "processed_at": "2025-07-13T03:20:19.277451"
+  },
+  "samplenew3_00000261": {
+    "subtitle": "小王爷何至于窝在寿春苟活",
+    "emotional_analysis": "The woman appears contemplative and slightly concerned, with her mouth slightly open as if she is about to speak or is in the middle of speaking. Her facial expression conveys a sense of deep thought or concern.",
+    "emotion_words": "[contemplative, concerned]",
+    "openset": "[anger, frustration, disappointment]",
+    "reason": "In the text, the subtitle reads: \"Why is Xiao Wangye hiding in Shouchun and living like this?\" This sentence may be the individual's evaluation or reaction to someone. Based on the description of the individual experiencing a series of negative emotions, including anger, frustration, and disappointment in the audio clues, as well as the individual's harsh and aggressive tone of voice, we can infer that this sentence may carry a sense of anger or dissatisfaction. Therefore, this sentence may be the individual's criticism or accusation towards someone, expressing their dissatisfaction and discontent.",
+    "processed_at": "2025-07-13T03:20:22.132708"
+  },
+  "samplenew3_00000294": {
+    "subtitle": "这让我想起了聪明的衣袖",
+    "emotional_analysis": "在视频中，这个男孩坐在房间内，面前有一个浅棕色的沙发，背景是蓝色的柜子和白色的音响设备。他身穿一件蓝色的毛衣，上面有黑色的条纹装饰。他先是露出微笑，然后转头看着镜头，最后又重新转头，表情略显严肃。他的微笑和稍显严肃的表情可能表明他正在思考或表达某件重要的事情。他的行为和表情传达出一种沉思和专注的氛围。",
+    "emotion_words": "['happy', 'serious', 'smiling']",
+    "openset": "[positive, praising, nostalgic, excited, happy]",
+    "reason": "In the text, the subtitle reads: \"This reminds me of clever sleeves.\" This sentence may be the boy's comment or recollection of something or a situation. Based on the audio clues describing a mixture of excitement and anxiety in the individual's emotions, as well as the boy's displayed smile and happiness in the video, we can infer that this sentence may have a positive, praising, or nostalgic tone. The boy may be recalling an experience related to something clever or interesting, which made him feel excited and happy. Therefore, this sentence may be the boy's positive evaluation of this memory or an expression of his fondness for it.",
+    "processed_at": "2025-07-13T03:20:25.574878"
+  },
+  "samplenew3_00000340": {
+    "subtitle": "对我天神朝堂也是如虎添翼之妙使啊",
+    "emotional_analysis": "The man is visibly excited and happy as he speaks. His eyes are wide with excitement, and his mouth is open as he exclaims something. He has a bright, animated expression on his face, indicating his strong emotions of joy and pride.",
+    "emotion_words": "['excited', 'happy', 'eager']",
+    "openset": "[excitement, admiration, surprise]",
+    "reason": "In the text, the subtitle reads: \"To me, the Heavenly Court is also like a tiger with wings.\" This sentence may be the man's evaluation or reaction to a certain event or situation. Based on the facial expressions and body movements of the man in the video, which show curiosity, entertainment, and a sense of formality or ceremony, as well as the trembling and shaking, hoarse and breathless voice in the audio clues, we can infer that this sentence may carry a sense of excitement, admiration, or surprise. Therefore, this sentence may be the man's expression of excitement, admiration, or surprise towards an event or situation that has impressed him.",
+    "processed_at": "2025-07-13T03:20:28.072478"
+  },
+  "samplenew3_00000347": {
+    "subtitle": "他们就需要重新作案重新找回那种新的刺激",
+    "emotional_analysis": "The man appears to be in deep thought or possibly stressed, as his mouth moves slightly and his eyes show a mix of concern and determination. His facial expression suggests he is contemplating or reacting to something important.",
+    "emotion_words": "[concerned, determined, thoughtful]",
+    "openset": "[tense, anxious]",
+    "reason": "In the text, the subtitle reads: \"They just need to commit the crime again to regain that kind of new excitement.\" This sentence may be the man discussing a certain issue or proposing a suggestion. Based on the serious expression and body language of the man in the video clues, as well as the trembling and monotone voice in the audio clues, we can infer that this sentence may carry a sense of tension or anxiety. This man may be discussing a challenging or important issue, and he feels nervous and anxious about solving this problem.",
+    "processed_at": "2025-07-13T03:20:30.042166"
+  },
+  "samplenew3_00000360": {
+    "subtitle": "陈东拖了你们的后腿我们也感到很惭愧啊",
+    "emotional_analysis": "The man appears to be in a state of contemplation or concern, as suggested by his slightly open mouth and attentive gaze. His facial expressions indicate thoughtfulness and possibly frustration, reflecting the gravity of the situation he is discussing.",
+    "emotion_words": "[\"frustrated\", \"concerned\", \"thoughtful\"]",
+    "openset": "[guilt, remorse, negative, unhappy]",
+    "reason": "In the text, the subtitle reads, \"Chen Dong, we feel very guilty for dragging you down.\" This sentence may be a man's evaluation or reaction to the people next to him. Based on the serious expression and body language of the man in the video clues, as well as the trembling of the individual's voice and tone in the audio clues, we can infer that this sentence may carry a negative emotion such as guilt or remorse. The man may feel that he has been a burden to the people next to him, causing them to feel ashamed. This aligns with the overall serious and unhappy emotions displayed by the man.",
+    "processed_at": "2025-07-13T03:20:32.275606"
+  },
+  "samplenew3_00000367": {
+    "subtitle": "有他在有如十万大",
+    "emotional_analysis": "The man appears to be deep in thought, with a focused expression on his face. His posture is upright, suggesting a state of contemplation or concern. The lighting accentuates his facial features, enhancing the dramatic effect of the scene.",
+    "emotion_words": "[concern]",
+    "openset": "[anger, frustration, threat, doubt, mockery]",
+    "reason": "In the text, the subtitle reads: \"With him, it's like having an army of a hundred thousand.\" This sentence may be describing or evaluating the abilities or influence of the man with long hair and white beard. Based on the audio clues describing the individual's possible experience of high-intensity emotions such as anger or frustration, as well as the use of repetitive and aggressive language, we can infer that this sentence may carry a tone of threat or challenge. Therefore, this sentence may be a negative evaluation or a doubt or mockery of the man's abilities, aligning with the emotional state displayed by the individual in the audio.",
+    "processed_at": "2025-07-13T03:20:34.204565"
+  },
+  "samplenew3_00000378": {
+    "subtitle": "还有上个月在江州别扣他那批货",
+    "emotional_analysis": "The man in the video appears to be deep in thought or contemplation, his expression showing a mixture of concern and seriousness. His posture is relaxed, with his hands gently resting on his neck, which could indicate a state of contemplation or worry. The overall demeanor suggests he is processing or considering something important.",
+    "emotion_words": "[concern, seriousness, contemplation, worry, thoughtful]",
+    "openset": "[anger, frustration, despair, helplessness, distress, anxiety, nervousness]",
+    "reason": "In the text, the subtitle reads: \"And last month in Jiangzhou, don't withhold his batch of goods.\" This sentence may be the man complaining or expressing dissatisfaction. Based on the audio clues describing a high-pitched, aggressive tone and feelings of anger, frustration, despair, and helplessness, we can infer that this sentence may be the man complaining about an event or expressing dissatisfaction with someone's behavior. Additionally, the man's displayed emotions of distress, anxiety, and nervousness in the video also support this inference. Therefore, this sentence may be the man's negative evaluation or complaint about an event or someone.",
+    "processed_at": "2025-07-13T03:20:36.961948"
+  },
+  "samplenew3_00000398": {
+    "subtitle": "你有没有什么办法帮帮百姓",
+    "emotional_analysis": "The woman appears to be in a state of contemplation or concern. Her expression is serious and her mouth slightly open, as if she is thinking deeply or reacting to something. The man, in contrast, has a more serious expression, suggesting he is listening intently or possibly concerned about the woman's state. There are no overt emotions visible in either character, but their body language and facial expressions indicate a moment of serious consideration or dialogue.",
+    "emotion_words": "['serious', 'contemplative', 'sighing']",
+    "openset": "[anticipation, longing, frustration, concern]",
+    "reason": "In the text, the subtitle says, \"Do you have any ways to help the people?\" This sentence may be a request or expectation from the speaker to the audience. Based on the sense of urgency, concern, and excited tone described in the audio cues, as well as the calm and confident emotions displayed by the woman in the video cues, we can infer that this sentence may be the speaker seeking the audience's help or advice to solve a certain dilemma or problem. Therefore, this sentence may carry a sense of anticipation and longing, aligning with the overall emotions of frustration and concern displayed by the speaker.",
+    "processed_at": "2025-07-13T03:20:40.312763"
+  },
+  "samplenew3_00000425": {
+    "subtitle": "只能让你眼睁睁看着他们受苦了",
+    "emotional_analysis": "The woman is shown in a serious and determined emotional state. She looks concerned and focused on her phone, suggesting she is concentrating on something important or urgent.",
+    "emotion_words": "[serious, concerned, focused, determined]",
+    "openset": "[helplessness, powerlessness, frustration, annoyance]",
+    "reason": "In the text, the subtitle reads: \"Can only watch them suffer.\" Based on the description of the speaker's feelings of frustration and annoyance in the audio clues, as well as the serious facial expression and focus on the phone screen in the video clues, we can infer that this sentence may be the speaker's expression of feeling powerless in regards to someone or something. The speaker may be describing a situation or dilemma that cannot be changed or resolved, which is causing them frustration and distress. Therefore, this sentence may carry a sense of helplessness and powerlessness, aligning with the negative emotions described in the audio and video clues.",
+    "processed_at": "2025-07-13T03:20:42.120427"
+  },
+  "samplenew3_00000432": {
+    "subtitle": "哈洋郑一路那个商贸城",
+    "emotional_analysis": "The man in the suit appears to be deep in thought, with his eyebrows slightly furrowed and mouth slightly open. He looks engaged and attentive, which suggests he is actively listening or considering something. The man in the background is partially visible and seems to be focused on something off-screen, indicating he is actively participating in the conversation.",
+    "emotion_words": "[serious, attentive, thoughtful, engaged, concerned]",
+    "openset": "[excited, enthusiastic]",
+    "reason": "In the text, the subtitle content says, \"Ha Yang Zheng, that commercial city.\" This sentence may be a location or topic mentioned by one of the men in the conversation. Based on the interesting expression and positive body language displayed by the man in the video, as well as the analysis of the emotions expert in the audio clues, we can infer that this sentence may be spoken by one of the men when discussing an interesting or amusing place. This sentence may have an excited or enthusiastic tone, consistent with the overall positive mood displayed by the man.",
+    "processed_at": "2025-07-13T03:20:44.617996"
+  },
+  "samplenew3_00000447": {
+    "subtitle": "这一看哪您这眼神就非常好",
+    "emotional_analysis": "在视频中，这个男人的表情丰富且充满活力。他先是露出了灿烂的笑容，显得非常开心和满意。随着视频的进行，他的笑容逐渐变深，甚至嘴角微微上扬，显示出一种由衷的满意和自豪。他的眼神也变得更加专注，仿佛在注视着什么重要的事物。整个过程展示了他内心的愉悦和对当前情况的满意。",
+    "emotion_words": "['happy', 'excited', 'amused', 'content']",
+    "openset": "[excited, anxious, positive]",
+    "reason": "In the text, the subtitle says, \"This look of yours is very good.\" This sentence may be a man's evaluation or reaction to someone or something. Based on the audio clues describing a mixed emotion of excitement and anxiety in the individual, as well as the man's pleasant and positive emotions displayed in the video, we can infer that this sentence may be a way of expressing praise or admiration. The man may be expressing appreciation or recognition for someone's gaze, which aligns with his overall display of positive emotions.",
+    "processed_at": "2025-07-13T03:20:47.515756"
+  },
+  "samplenew3_00000454": {
+    "subtitle": "这个问题问得好很深刻回头",
+    "emotional_analysis": "在视频中，主要人物是一位年轻的男孩和一位穿着红色上衣、围裙的女性。男孩站在女性的对面，女性正用手指着男孩，表情严肃。这种互动显示出一种紧张和严肃的氛围。男孩的面部表情显示出困惑和不解，而女性则显得非常专注和严肃，似乎在认真倾听男孩的解释。整个场景的氛围显得有些紧张，可能涉及某种家庭或工作上的问题。",
+    "emotion_words": "['frustrated', 'concerned', 'serious']",
+    "openset": "[angry, determined, indifferent, impatience]",
+    "reason": "In the text, the subtitle reads, \"That's a good and profound question.\" This sentence is likely the woman's response to the young boy. Based on the video clue of the woman raising her voice and the boy making a face, it can be inferred that the woman may be feeling angry or determined. And based on the audio clue of the individuals speaking in a monotone and cautious manner, it can be inferred that they may be feeling emotionally numb or defensive. Therefore, this sentence may carry a tone of indifference or impatience, aligning with the overall tension and excitement displayed by the woman and the individuals.",
+    "processed_at": "2025-07-13T03:20:50.784903"
+  },
+  "samplenew3_00000455": {
+    "subtitle": "不全是其实我们两个之间",
+    "emotional_analysis": "In this scene, the woman is shown with a concerned expression. Her furrowed brows and slightly open mouth suggest she is in the middle of a serious conversation, possibly explaining or discussing something important.",
+    "emotion_words": "['concerned', 'serious', 'serious']",
+    "openset": "[tension, unease, nervous, uncertain]",
+    "reason": "In the text, the subtitle reads, \"It's not all actually between the two of us.\" This sentence may be spoken by a woman during a conversation with a man. Based on the woman's anxious or uncertain expression in the video clues and the woman's fast-paced and energetic tone in the audio clues, we can infer that this sentence may carry a sense of tension or unease. The woman may be expressing some kind of issue or contradiction between her and the man, which may be causing her to feel nervous or uncertain.",
+    "processed_at": "2025-07-13T03:20:52.911341"
+  },
+  "samplenew3_00000467": {
+    "subtitle": "他是不是成心跟咱俩较劲啊",
+    "emotional_analysis": "视频中的男性角色躺在床上，神情显得有些无奈和困惑。他穿着灰色T恤，双臂高举，似乎在用力，眼睛睁大，眉头微皱，表现出一种焦虑和不安的情绪。他的表情和身体语言表明他可能正在与身旁的女性角色进行激烈的争论或争执。而女性角色则穿着浅蓝色睡衣，表情较为严肃，眉头紧锁，眼神直视男性角色，显得非常专注和愤怒。两人之间的对话内容涉及到对对方行为的不满，女性角色似乎在强调她对这一事件的看法和感受。这种情绪上的对立和紧张感通过他们的面部表情和肢体语言得以体现。",
+    "emotion_words": "['anxious', 'frustrated', 'anger']",
+    "openset": "[unhappy, anger, dissatisfaction]",
+    "reason": "In the text, the subtitle reads: \"Is he deliberately challenging the two of us?\" This sentence may be a negative evaluation or suspicion from the woman towards the man. Based on the woman's displayed emotions of unhappiness or anger in the video clues, as well as the concerned expression of the man, we can infer that this sentence may carry a tone of anger or dissatisfaction. The woman's facial expression and body language further emphasize her discomfort. Therefore, this sentence may indicate that the woman is unhappy with the man's behavior or attitude and suspects that he is deliberately challenging them.",
+    "processed_at": "2025-07-13T03:20:56.941003"
+  },
+  "samplenew3_00000482": {
+    "subtitle": "他一定把名言送到你我手上",
+    "emotional_analysis": "在视频中，这名年轻男子表现出坚定和严肃的表情。他直视着对面的人，眉头微微皱起，显示出他在认真思考或讨论某件重要的事情。这种表情传达出他内心的专注和决心。他的眼神坚定，似乎在强调某个观点或做出某种决定。整个交流过程中，他的表情和肢体语言都显示出他非常投入和认真，可能在讨论一个关键性的话题。",
+    "emotion_words": "['serious', 'determined', 'focused']",
+    "openset": "[positive, confident, motivated]",
+    "reason": "In the text, the subtitle content \"He will definitely deliver the quotes to you and me\" is based on the description of the individual's voice tone in the audio clues, which is firm and confident, and the slightly faster speech rate, indicating determination and motivation. It is also based on the visual clue in the video of the individual's relaxed posture and engagement in the conversation, suggesting a neutral or positive emotional state. The phrase in the subtitle content \"He will definitely deliver the quotes to you and me\" may be the individual expressing their determination, motivation, and desire to achieve their goals. This statement may carry a positive emotion, indicating the individual's confidence and anticipation towards their goals.",
+    "processed_at": "2025-07-13T03:20:59.890568"
+  },
+  "samplenew3_00000493": {
+    "subtitle": "今后怎么样才是最重要的",
+    "emotional_analysis": "视频中的人物表情丰富，主要呈现了惊讶、专注和坚定的情绪。首先，视频开始时，主要人物坐在桌子前，双手捧着笔，神情专注地看向对面的某人。他的表情透露出一种认真和思考的状态，似乎正在认真听取对方的发言。这种专注的神情表明他正在认真听讲，可能是在等待某个关键信息或答案。\n\n随着对话的展开，主要人物的表情逐渐从专注转为惊讶。他的眼神从最初的认真转向疑惑，甚至有些惊讶，似乎对方所说的话或做了什么出乎他的意料。这种情绪变化显示了他可能对当前的情况感到意外和不解，进一步加强了对话的紧张氛围。\n\n在接下来的几个镜头中，主要人物的面部表情变得更加坚定，甚至有些严肃。他紧握笔，似乎在记录或思考，眉头微皱，眼神坚定，显示出他对当前对话内容的重视。这种表情强化了他作为重要角色的角色定位，表明他在处理问题或决策时非常谨慎和果断。\n\n总体而言，视频通过主要人物的表情变化和眼神表达，成功传达了他所处情境的紧张和专注。他的情绪变化反映了他在对话中对当前情况的重视和对对方发言的回应，为后续可能的发展埋下了伏笔。",
+    "emotion_words": "[\"surprise\", \"serious\", \"determined\", \"confused\", \"emotional\"]",
+    "openset": "[positive, optimistic]",
+    "reason": "In the text, the subtitle reads, \"What matters most in the future.\" This sentence is likely spoken by the man in the video. Based on the description of the individual speaking in a fast-paced and energetic manner in the audio clues, their confident and firm voice tone, as well as the man's smile and positive attitude in the video clues, we can infer that this sentence may carry a positive and optimistic tone. This sentence expresses the man's emphasis and concern for the future, indicating that he may be discussing or contemplating important matters and expressing his positive attitude towards the future.",
+    "processed_at": "2025-07-13T03:21:07.554915"
+  },
+  "samplenew3_00000495": {
+    "subtitle": "这一扇窗户怎么会有两种眼神",
+    "emotional_analysis": "视频中的女性角色起初显得有些困惑或不安，因为她正在与对面的男性角色交谈。她的表情中透露出一种疑问和不确定，似乎在寻求解释或理解对方所说的话。在她的对话中，她偶尔会抬头看对方，显示出她对对方话语的专注。这种表情和姿态表明她可能在试图理解对方的意图或解释某些事情。\n\n随着对话的深入，女性角色的表情逐渐从困惑转为更加认真和投入。她的目光更加坚定地盯着对方，显示出她对对话内容的重视。这种表情的变化揭示了她内心情感的变化，可能从最初的疑惑到后来的专注和认真。\n\n在视频的后半部分，女性角色的表情变得更加温和，她的眼睛微微眯起，嘴角上扬，表现出一种轻松和满意的神情。这种表情的变化显示她可能对当前的对话内容感到满意或高兴，她的笑容也进一步强调了这种积极的情绪。\n\n总体来说，视频中的女性角色通过她不同的面部表情和姿态传达了从困惑到专注再到满意的情感变化。她与男性角色的交流虽然表面上看似平淡，但实际上通过她的面部表情和眼神交流，揭示了她对对话内容的重视和理解过程。",
+    "emotion_words": "['confused', 'serious', 'happy', 'smiling', 'calm']",
+    "openset": "[anxious, nervous, curious, anticipating, sad, contemplating, reflecting, hiding emotions, maintaining composure, confident]",
+    "reason": "In the text, based on the video clues describing a woman standing in the middle of a room with unclear facial expressions but body language indicating curiosity, anticipation, sadness, and other emotions, as well as the audio clues describing a slight tremor in the speaker's voice and a firm and confident tone, we can infer that the woman may be experiencing a range of emotions, contemplating a situation, or reflecting on recent events. She may be feeling anxious and nervous but is trying to hide her true emotions through a confident tone of voice. Therefore, it can be speculated that the woman may be facing some challenges or confusion and is trying to maintain composure and confidence.",
+    "processed_at": "2025-07-13T03:21:14.301636"
+  },
+  "samplenew3_00000496": {
+    "subtitle": "我这是可以去福利院的",
+    "emotional_analysis": "The girl appears to be deep in thought and slightly concerned. She seems to be contemplating something serious or important, as her expression is focused and thoughtful. There are no overt signs of happiness or distress in her eyes or demeanor, indicating a serious and possibly thoughtful emotional state.",
+    "emotion_words": "[serious, concerned, thoughtful]",
+    "openset": "[sadness, helplessness, despair, self-doubt]",
+    "reason": "In the text, the subtitle reads, \"I can go to the welfare home.\" This sentence may be a self-evaluation or reaction from the young woman when she is contemplating or facing a certain dilemma. Based on the video clues describing the young woman's contemplation, furrowed forehead, and neutral facial expression, as well as the audio clues describing the trembling voice and rapid breathing of the individual, we can infer that this sentence may carry a sense of sadness, helplessness, or despair. Therefore, this sentence may express a negative emotion and self-doubt from the young woman when facing a difficult situation.",
+    "processed_at": "2025-07-13T03:21:16.744166"
+  },
+  "samplenew3_00000500": {
+    "subtitle": "要不然说林所长冰雪聪明的一点就透",
+    "emotional_analysis": "在视频中，主要角色坐在餐桌前，与另一位人物进行对话。这位角色穿着蓝色条纹的外套，戴着眼镜，显得专注且自信。她的眼神和微笑显示出她对谈话内容的重视和投入。她的姿态放松，表现出一种平和且愉快的情绪。另一位角色则背对镜头，坐在她的对面，虽然看不到表情，但她的姿态显示出一种礼貌和专注。两人之间的对话内容涉及对林所长的评价，其中提到“冰雪聪明”，这暗示了角色间的某种幽默或轻松的对话。整体氛围看起来轻松愉快，但同时又不乏对林所长的肯定。",
+    "emotion_words": "[]",
+    "openset": "[appreciation, admiration]",
+    "reason": "In the text, the subtitle reads, \"Otherwise, Director Lin's intelligence would be revealed.\" This sentence may be the speaker's evaluation or reaction to Director Lin. Based on the audio cues describing the speaker's high-pitched voice, fast speech rate, clear and bright voice, and use of rhetorical devices, we can infer that this sentence may carry a tone of appreciation or admiration. Therefore, this sentence may be praising Director Lin's intelligence and aligns with the positive emotions described in the audio cues.",
+    "processed_at": "2025-07-13T03:21:20.744361"
+  },
+  "samplenew3_00000501": {
+    "subtitle": "这几年你知道我吃了多少苦承受了多大的压力知道吗",
+    "emotional_analysis": "视频中的主要男性角色坐在一个看似书架和窗户的房间内。他穿着一件蓝色的上衣，表情显得十分专注和严肃。他的面部肌肉紧绷，眉头深锁，嘴巴微张，似乎正在认真听或思考某件重要的事情。他的身体微微前倾，显示出他全神贯注地盯着前方。房间的背景中，可以看到书架上堆满了书籍，窗户外面的光线透进来，使房间显得有些昏暗但温暖。房间的整体色调偏暖，给人一种宁静但略显压抑的感觉。视频中的文字“这几年你知道我吃了多少苦承受了多大的压力知道吗”进一步增强了角色的沉重感和内心的挣扎，暗示了他正在经历一段艰难的时期。整个场景没有其他人物出现，突出了角色的孤独和内心的煎熬。",
+    "emotion_words": "['serious', 'focused', 'tense', 'pensive', 'emotional']",
+    "openset": "[despair, urgency, sadness, anger, indifference, detachment]",
+    "reason": "In the text, the subtitle reads: \"Do you know how much hardship and pressure I have endured in these years?\" Based on the description of the speaker's voice in the audio clues, which include feelings of sadness, anger, despair, and urgency, as well as the video clues of the man's neutral facial expression and minimal body movements, we can infer that this sentence may be a complaint or expression of the speaker's difficulties and pressures. The speaker's voice conveys a sense of despair, while the video clues of the man's neutral facial expression and minimal body movements may indicate his indifference or detachment from the surroundings. Therefore, this sentence may be the speaker expressing their hardships and pressures to the person they are talking to, conveying a negative emotional state.",
+    "processed_at": "2025-07-13T03:21:26.050734"
+  },
+  "samplenew3_00000504": {
+    "subtitle": "谢谢领导关心我一定把",
+    "emotional_analysis": "The man seated on the leather chair appears to be deep in thought, possibly contemplating the situation. His body language suggests he is listening attentively and focused on the conversation. In contrast, the man on the couch appears to be in a state of relaxation, as indicated by his posture and the fact that he is using a mobile phone. His expression is neutral, indicating a calm demeanor. The overall setting and the characters' body language contribute to a scene that seems professional yet personal.",
+    "emotion_words": "[relaxed, thoughtful]",
+    "openset": "[grateful, determined, supportive, positive]",
+    "reason": "In the text, the subtitle says, \"Thank you for your concern, I will definitely do it.\" This sentence may be a response or commitment from the man on the phone to the other person. Based on the relaxed and comfortable emotional state of both individuals in the video clues, as well as the occasional nod of support from the listening man, we can infer that this sentence may carry a sense of gratitude and determination. The man on the phone may feel grateful for the concern and support from the leader, so he expresses his thanks and promises to work hard to complete a task or solve a problem. Overall, both the video and audio clues indicate the presence of friendship and emotional connection between the two individuals, and they are both in a positive emotional state.",
+    "processed_at": "2025-07-13T03:21:29.696441"
+  },
+  "samplenew3_00000511": {
+    "subtitle": "检方的量刑建议是死刑",
+    "emotional_analysis": "在视频中，主要角色坐在会议室里，穿着黑色西装，系着红色领带，表情严肃且专注。他眉头微皱，眼神坚定，似乎在认真听取另一名角色的话。他的姿态显示出他正积极参与讨论，表现出一种专注和认真对待当前情境的态度。",
+    "emotion_words": "['serious', 'focused', 'determined']",
+    "openset": "[boredom, indifference, sadness, lack of interest]",
+    "reason": "In the text, the subtitle content is \"The prosecutor's sentencing recommendation is death penalty.\" Based on the visual clue in the video of the man staring blankly at the table with no facial expression, and the body language indicating a lack of engagement or interest in the conversation, as well as the audio clue of the individual's relatively slow and cautious speech rate, flat and monotonous tone of voice, and relatively flat pitch contour, we can infer that this man may be experiencing a range of negative emotions such as boredom, indifference, sadness, or lack of interest. Therefore, the subtitle content of the prosecutor's sentencing recommendation being death penalty may not have elicited a strong emotional response from him, further supporting his indifferent or uninterested emotional state.",
+    "processed_at": "2025-07-13T03:21:32.310813"
+  },
+  "samplenew3_00000513": {
+    "subtitle": "我结下权贵之妻",
+    "emotional_analysis": "The woman appears to be in a state of shock and concern. Her eyes are wide open, mouth slightly agape, and her hands are clasped together in front of her. She seems to be crying or expressing distress, which is further emphasized by her expressive facial features.",
+    "emotion_words": "[distress, shock, concern, crying]",
+    "openset": "[sadness, despair, distress]",
+    "reason": "In the text, the subtitle content \"I married a powerful man\" combined with the description of the individual's voice filled with sadness and despair in the audio clues, as well as the woman's display of pain and distress in the video clues, we can infer that this sentence may be the woman expressing her predicament and unhappy marital status. She may feel forced to marry someone with power, but it is not what she truly desires. This sentence expresses her dissatisfaction and pain with her marital situation. Overall, based on the audio and video clues, we can infer that this woman is experiencing a negative emotional state, including sadness, despair, and distress.",
+    "processed_at": "2025-07-13T03:21:34.378169"
+  },
+  "samplenew3_00000535": {
+    "subtitle": "那年突围后我还到保卫局去找过你保卫局的人说你调走了他们问我找你干什么我说",
+    "emotional_analysis": "The man appears to be in deep thought or concern, indicated by his slightly furrowed brows and focused expression. His facial expressions convey seriousness and contemplation throughout the sequence, suggesting he is deeply involved in the unfolding events and considering his actions.",
+    "emotion_words": "[serious, concerned, determined, thoughtful]",
+    "openset": "[]",
+    "reason": "In the text, the subtitle content says, \"After the breakout that year, I went to the security bureau to look for you. The people at the security bureau said you had been transferred. They asked me why I was looking for you, and I said...\" Based on the description of the speaker's calm and steady voice in the audio clues, as well as the calm and contentment conveyed by the man's facial expression and body language in the video clues, it can be inferred that this sentence may be the man recalling past experiences and not showing obvious emotional fluctuations. Therefore, this sentence may be describing past events rather than expressing current emotional states.",
+    "processed_at": "2025-07-13T03:21:36.338002"
+  },
+  "samplenew3_00000548": {
+    "subtitle": "会害了秋府上下所有的人",
+    "emotional_analysis": "The woman appears deeply concerned and is visibly distressed, her facial expressions reflecting a moment of heightened emotional tension. Her eyes are narrowed, and her mouth is slightly agape, indicating a state of heightened anxiety or fear. She maintains a serious and somber expression throughout the video, underscoring her emotional weight and the gravity of the situation she is dealing with.",
+    "emotion_words": "['anxious', 'fearful', 'serious']",
+    "openset": "[anger, sadness, anxiety]",
+    "reason": "In the text, the subtitle reads: \"It will harm everyone in the Autumn Mansion.\" Based on the facial expression and body language displayed by the woman in the video, as well as the description of the individual possibly experiencing a range of emotions including anger, sadness, and anxiety in the audio clues, we can infer that this sentence may be the woman expressing her concerns and worries. She may believe that a certain action or event will have a negative impact on everyone in the Autumn Mansion, which could be the reason for her feelings of anger, sadness, and anxiety. Therefore, this sentence expresses the woman's concerns and worries about the possible situation.",
+    "processed_at": "2025-07-13T03:21:39.956703"
+  },
+  "samplenew3_00000579": {
+    "subtitle": "徐江跟我的老公一直有矛盾他一直用一些卑鄙的低级的手段想把我们赶出市场所以他杀了我老公",
+    "emotional_analysis": "The woman appears to be deep in thought and contemplative, her expression marked with a mix of concern and contemplation. Her posture suggests she is deep in thought or possibly stressed, with her chin resting on her hands and a slight frown on her face.",
+    "emotion_words": "[concern, contemplation, stress, concern]",
+    "openset": "[anger, frustration, resentment]",
+    "reason": "In the text, the subtitle reads: \"Xu Jiang has always had conflicts with my husband. He has been using despicable and low-level means to try to drive us out of the market, so he killed my husband.\" This sentence indicates that the individual has negative emotions towards Xu Jiang and believes that he is the mastermind behind the murder of her husband. Based on the description of the individual's anger, frustration, and resentment in the audio clues, as well as the description that the individual has been feeling this way towards their spouse for a long time, we can infer that this sentence is the individual's accusation and expression of anger towards Xu Jiang. The individual may believe that Xu Jiang has been using despicable means to deal with them and sees him as the murderer of her husband. This emotional expression reflects the individual's strong dissatisfaction and anger towards Xu Jiang.",
+    "processed_at": "2025-07-13T03:21:42.104575"
+  },
+  "samplenew3_00000588": {
+    "subtitle": "这神神秘秘的义父我没有见过世面的样子",
+    "emotional_analysis": "The man appears to be in a state of surprise or disbelief. He is looking directly at the camera with a slight smile, which suggests that he might be reacting to something unexpected or surprising. This expression indicates his engagement with the information being presented.",
+    "emotion_words": "[\"surprise\", \"disbelief\", \"enthusiasm\"]",
+    "openset": "[positive emotions: nostalgia, happiness, excitement, anxiety, positive evaluation, mystery appreciation; negative emotions: confusion, uncertainty]",
+    "reason": "In the text, the subtitle reads: \"This mysterious foster father, I have never seen him before.\" Based on the video clues of the man's focused gaze at the photo and his facial expressions and body movements suggesting various emotions such as nostalgia, happiness, or sadness, the audio clue of the individual speaking in a high-pitched and fast-paced manner indicating excitement or anxiety, and the subtitle content of \"mysterious foster father,\" it can be inferred that the subtitle is a description or evaluation of the person in the photo by the man. Without more background information, it is difficult to accurately predict the exact emotional state of the man, but it can be inferred that he may be experiencing a mixture of positive and negative emotions.",
+    "processed_at": "2025-07-13T03:21:44.404028"
+  },
+  "samplenew3_00000593": {
+    "subtitle": "你不能随意出门",
+    "emotional_analysis": "The man is displaying a range of emotions. Initially, he appears to be in a state of deep thought or contemplation, indicated by his slightly open mouth and the slight furrow of his brows. As the scene progresses, his expression shifts to one of concern or worry, as evidenced by his wide eyes and slightly open mouth. This suggests he is reacting to something serious or troubling. Finally, his eyes widen, and his eyebrows slightly raise, conveying a sudden surge of emotion. This sequence highlights his emotional turmoil, possibly due to a significant event or realization.",
+    "emotion_words": "['thoughtful', 'worry', 'surprise', 'worry', 'nervous']",
+    "openset": "[serious, warning, cautious]",
+    "reason": "In the text, the subtitle says, \"You can't go out casually.\" This sentence may be a warning or advice from the old man to the girl. Based on the description of the old man's serious facial expression and body language in the video clues, as well as the description of the tense and aggressive tone in the audio clues, we can infer that this sentence may have a serious or warning tone. Therefore, this sentence may be cautioning the girl not to go out casually, possibly because there is some danger or risk. This aligns with the expressions and body language of the old man and the girl in the video, indicating that they are discussing something important or serious.",
+    "processed_at": "2025-07-13T03:21:48.199737"
+  },
+  "samplenew3_00000602": {
+    "subtitle": "你给我一个月我保证给你个惊喜什么惊喜",
+    "emotional_analysis": "The man in the suit appears to be speaking earnestly and assertively. He uses firm hand gestures, including raising his index finger, to emphasize his points. His facial expression conveys a sense of seriousness and determination. The man facing him seems to be listening intently, showing engagement in the conversation.",
+    "emotion_words": "[serious, assertive, determined, engaged]",
+    "openset": "[determination, confidence, excitement, anticipation, positivity]",
+    "reason": "In the text, the subtitle content reads, \"Give me a month, and I promise to give you a surprise. What surprise?\" This sentence may be a commitment or challenge that the man is making to someone or a team in a meeting or workplace. Based on the serious expression and body language of the man in the video clues, as well as the professional or formal setting implied by the environment, we can infer that this sentence may carry a tone of determination and confidence. Additionally, based on the excitement and anticipation in the individual's tone of voice, as well as the fast speech rate and presence of background noise in the audio clues, we can infer that this sentence may carry a sense of excitement and vibrancy. Therefore, this sentence may be the man expressing his determination and excitement, and conveying a positive emotion and expectation to the other party.",
+    "processed_at": "2025-07-13T03:21:50.827536"
+  },
+  "samplenew3_00000605": {
+    "subtitle": "说我捐的金额太少了",
+    "emotional_analysis": "视频中，女主角的表情显得非常紧张和焦虑。她的眼睛睁得很大，嘴巴微微张开，似乎在低声说话或表达某种强烈的情感。这种表情通常表示她处于担忧、不安或极度焦虑的状态。她身穿白色花裙，衣服上有装饰性的花纹，脖子上戴着一条细细的项链，发型是两条麻花辫，显得有些凌乱但不失优雅。背景是一张铺着红色和米色床单的床，上面散落着一些衣物和工具，环境看起来像是一个卧室，光线较为柔和但足够明亮。这些细节共同营造出一种紧张和悬疑的氛围。",
+    "emotion_words": "['anxious', 'fearful', 'surprise']",
+    "openset": "[guilt, criticism, dissatisfaction, frustration]",
+    "reason": "In the text, the subtitle content \"Saying that the amount I donated was too little\" is possibly a response or self-evaluation from the woman to someone. Based on the audio clues describing slight tremors and tense, breathless voice in the individual's voice, as well as the mixed facial expression of sadness and contemplation displayed by the woman in the video, we can infer that this sentence may carry a sense of self-blame or frustration. The woman may feel that her donation amount is not enough, leading to feelings of guilt or criticism from others. Therefore, this sentence expresses the woman's dissatisfaction with her donation amount or her frustration with criticism from others.",
+    "processed_at": "2025-07-13T03:21:55.279708"
+  },
+  "samplenew3_00000665": {
+    "subtitle": "我也应该用嘶哑的喉咙歌唱",
+    "emotional_analysis": "The man in the foreground appears to be deep in thought and possibly reflective or contemplative. His facial expression suggests he is pondering something deeply. The younger man in the background, although slightly out of focus, seems to be listening attentively to the man in the foreground. The younger man's expression is neutral, indicating a calm demeanor.",
+    "emotion_words": "[thoughtful, reflective, contemplative, listening]",
+    "openset": "[happy, satisfied, joyful]",
+    "reason": "In the text, the subtitle reads, \"I should also sing with a hoarse throat.\" This sentence may be an evaluation or reaction from the individual towards themselves. Based on the description of the background with the chirping of birds in the audio cues, as well as the individual's smiling and positive emotions shown in the video cues, we can infer that this sentence may be an expression from the individual about feeling happy and satisfied in the natural environment. The individual may wish to sing freely like a bird, expressing their joy and happiness.",
+    "processed_at": "2025-07-13T03:21:57.777213"
+  },
+  "samplenew3_00000668": {
+    "subtitle": "我去你们这太不够意思了",
+    "emotional_analysis": "The man appears visibly distressed, his expression conveying anger and frustration. His eyes are narrowed and mouth agape, indicating strong emotion.",
+    "emotion_words": "['angry', 'distressed']",
+    "openset": "[anger, sadness]",
+    "reason": "In the text, the subtitle content says, \"You guys are so rude.\" This sentence may be a man's dissatisfaction or complaint about the people or environment around him. Based on the high-pitched, agitated tone described in the audio clues, the use of profanity, as well as the man's posture and facial expressions of sadness, stress, or contemplation in the video clues, we can infer that this sentence carries a sense of anger or sadness. Therefore, this sentence may be the man expressing his dissatisfaction or complaint about the surrounding environment or people, aligning with the overall negative emotions displayed by the man.",
+    "processed_at": "2025-07-13T03:21:59.188158"
+  },
+  "samplenew3_00000682": {
+    "subtitle": "我就叫我不了蒋介乐色的话我小心我打你之类",
+    "emotional_analysis": "在视频中，主要角色表现出几种情感。首先，当他们对话时，角色的面部表情显示出专注和略带担忧。他们的眼神集中在对方身上，似乎在认真思考或回应。角色微微张开的嘴巴和紧闭的嘴唇表明他们可能在表达某种观点或情绪。这种表情和肢体语言传递出一种紧张或严肃的氛围。此外，角色的头发颜色和发型在不同帧中有所变化，这可能暗示角色经历了时间的推移或情感上的波动。总的来说，这些细节共同描绘了一个紧张且情感复杂的对话场景。",
+    "emotion_words": "['focused', 'sighing', 'serious', 'expression']",
+    "openset": "[anger, tension]",
+    "reason": "In the text, the subtitle content \"I will call myself Jialelese, and if you say anything bad about me, I will be careful and I will hit you.\" This sentence is likely spoken by the man to the woman. Based on the description of the individual's voice trembling and shaking in the audio clues, as well as the trembling tone, we can infer that this sentence may carry a sense of tension or anger. Therefore, this sentence may be a threat or warning from the man to the woman, expressing his dissatisfaction or anger.",
+    "processed_at": "2025-07-13T03:22:03.013877"
+  },
+  "samplenew3_00000723": {
+    "subtitle": "哪像太子殿下您呢",
+    "emotional_analysis": "The man appears to be in a state of contemplation or concern. His gaze is directed slightly off-camera, and his expression seems serious and thoughtful, suggesting he is deep in thought or considering something important.",
+    "emotion_words": "[serious, contemplative, thoughtful]",
+    "openset": "[praise, admiration, positive, confident]",
+    "reason": "In the text, the subtitle content says, \"Unlike Your Highness.\" This sentence may be a comment or reaction to the man. Based on the video clues of the man wearing a blue robe and a golden crown, smiling and looking directly at the camera, as well as his facial expressions and body movements showing pride or a sense of accomplishment, we can infer that this sentence may be a way of expressing praise or admiration. Although the audio clues cannot provide specific emotional clues, based on the positive emotions and confident attitude displayed by the man in the video, this sentence is likely a form of praise or compliment that aligns with the overall positive emotions displayed by the man.",
+    "processed_at": "2025-07-13T03:22:05.020879"
+  },
+  "samplenew3_00000725": {
+    "subtitle": "我李约是个爱才之人",
+    "emotional_analysis": "The man is speaking with an expressive demeanor, conveying a sense of earnestness and determination. He appears to be in a serious conversation, possibly discussing a significant topic, and his facial expressions suggest a blend of seriousness and earnestness.",
+    "emotion_words": "[serious, determined, earnest]",
+    "openset": "[pride, confidence]",
+    "reason": "In the text, the subtitle content says, \"I, Li Yue, am a person who loves talents.\" Based on the description of the old man's serious expression and body language in the video clues, as well as the stable and confident voice of the individual in the audio clues, we can infer that this sentence may be the old man's self-evaluation or self-introduction. Due to the serious and focused emotional state displayed by the old man, this sentence may carry a tone of pride and confidence, expressing the old man's recognition of his own talents and affirmation of his self-worth. Therefore, this sentence aligns with the overall serious and focused emotion exhibited by the old man.",
+    "processed_at": "2025-07-13T03:22:06.905706"
+  },
+  "samplenew3_00000744": {
+    "subtitle": "丁小河是个不会撒谎的人",
+    "emotional_analysis": "The man appears to be deeply engaged in a serious discussion or confrontation. He displays a range of emotions, including concentration, contemplation, and perhaps some frustration or determination, as indicated by his focused expression and slightly furrowed brows. His hand gestures suggest he is emphasizing a point or expressing strong opinions, further contributing to the tension in the scene.",
+    "emotion_words": "['concentration', 'contemplation', 'determination', 'frustration']",
+    "openset": "[appreciative, trusting]",
+    "reason": "In the text, the subtitle reads: \"Ding Xiaohe is a person who does not lie.\" Based on the video clue of the woman's serious facial expression and focused attitude, as well as the audio clue of the individual's nervous and anxious voice characteristics, we can infer that this sentence is likely a description or evaluation of Ding Xiaohe by the woman. The woman's serious expression and focused attitude imply that her evaluation of Ding Xiaohe may be serious and genuine. The nervous and anxious voice characteristics in the audio clue suggest that this sentence may be a positive affirmation from the woman, considering Ding Xiaohe as an honest and reliable person. Therefore, this sentence expresses the woman's appreciation and trust in Ding Xiaohe.",
+    "processed_at": "2025-07-13T03:22:09.440826"
+  },
+  "samplenew3_00000765": {
+    "subtitle": "把我给抓回去那我就完了我肯定会受到责罚的",
+    "emotional_analysis": "The woman is visibly upset, as indicated by her wide eyes and slightly open mouth, which suggest surprise or shock. Her eyebrows are raised, adding to the intensity of her facial expression. The man, who is facing her, appears to be listening intently, his facial expression showing concern or empathy. His posture is slightly forward, indicating attentiveness or curiosity.",
+    "emotion_words": "[\"upset\", \"surprise\", \"surprise\", \"curiosity\", \"surprise\", \"surprise\"]",
+    "openset": "[concern, worry]",
+    "reason": "In the text, the subtitle reads, \"If they catch me and take me back, I'm done. I will definitely be punished.\" This sentence may express a concern or worry from the woman in the conversation. Based on the video clue of the woman's worried expression and her body language during the conversation, as well as the audio clue of the woman speaking calmly and understandingly, we can infer that this sentence may be the woman's worry about some potential negative consequences or punishment. The woman may be discussing an important decision or action and is concerned about the possible outcomes.",
+    "processed_at": "2025-07-13T03:22:12.562516"
+  },
+  "samplenew3_00000803": {
+    "subtitle": "此二人若勾结起来不知要做出多少祸国殃民的事来",
+    "emotional_analysis": "The man's facial expressions convey a range of emotions. Initially, his eyes are closed, suggesting he is either deep in thought or experiencing a moment of intense emotion. He then opens his eyes, revealing a mix of surprise and concern. The latter part of the video shows his eyes widening and mouth slightly agape, indicating a sudden realization or shock. His eyebrows are furrowed, adding to the tension. The overall narrative suggests a dramatic or critical moment in the dialogue, with his facial expressions reflecting a mixture of shock, concern, and contemplation.",
+    "emotion_words": "[surprise, concern, realization, shock]",
+    "openset": "[concern, warning]",
+    "reason": "In the text, the subtitle reads: \"If these two people conspire together, who knows how much harm they will cause to the country and the people.\" This sentence may be a comment or speculation about the two people in the video. Based on the description of the speaker's tense and anxious voice in the audio clues, as well as the serious facial expression and focused posture of the old man in the video clues, we can infer that this sentence may carry a tone of concern or warning. The speaker may believe that the collaboration between these two people could have negative consequences, potentially causing harm to the country and its people. Therefore, this sentence may be expressing concern and warning about this collaboration.",
+    "processed_at": "2025-07-13T03:22:16.018393"
+  },
+  "samplenew3_00000814": {
+    "subtitle": "这不唯恐天下不乱吗",
+    "emotional_analysis": "The girl looks slightly uncomfortable. She appears to be contemplating something, as she looks to her left and slightly to her right, but her gaze remains fixed on the person across from her.",
+    "emotion_words": "[uneasy, thoughtful, attentive]",
+    "openset": "[anger, dissatisfaction]",
+    "reason": "In the text, the subtitle reads: \"Isn't this just trying to stir up trouble?\" This sentence may be a man's evaluation or reaction to the woman. Based on the description of the individual speaking in a high pitch and urgent tone in the audio clue, as well as the man's angry facial expression in the video clue, we can infer that this sentence may carry a tone of anger or dissatisfaction. Therefore, this sentence may express the man's dissatisfaction or lack of understanding towards the woman's behavior or attitude, aligning with the overall angry mood displayed by the man.",
+    "processed_at": "2025-07-13T03:22:18.203941"
+  },
+  "samplenew3_00000821": {
+    "subtitle": "我是店长镇主持",
+    "emotional_analysis": "The man appears calm and composed throughout the video. He maintains a neutral expression without displaying strong emotions such as joy or sadness. His posture is upright, suggesting confidence and composure. The video captures a moment of calm and readiness, likely reflecting his experience and expertise as a chef.",
+    "emotion_words": "[calm, composed, calm, confident]",
+    "openset": "[pride, confidence, positive]",
+    "reason": "In the text, the subtitle content says, \"I am the manager of the town.\" This sentence may be part of the man's self-introduction. Based on the audio clue describing the individual speaking with a clear and confident tone, as well as the video clue of the man's overall display of tranquility and inner calm, we can infer that this sentence may carry a sense of pride and confidence. The man's calm and inner calm demeanor also supports the possibility of him displaying positive emotions during his self-introduction.",
+    "processed_at": "2025-07-13T03:22:20.464406"
+  },
+  "samplenew3_00000827": {
+    "subtitle": "你一直默默地照顾我的家",
+    "emotional_analysis": "The woman is shown in a thoughtful and concerned state throughout the video. Her expression shifts subtly from a calm demeanor to one of concern and seriousness as she speaks, indicating a moment of reflection or realization. This emotional progression underscores the gravity of the situation she is discussing, highlighting her commitment and dedication to her home.",
+    "emotion_words": "['thoughtful', 'concerned', 'serious']",
+    "openset": "[gratitude, praise, fear, anxiety, sadness]",
+    "reason": "In the text, the subtitle reads: \"You have silently taken care of my family.\" This sentence may be an expression of gratitude or praise from the individual to someone. Based on the description of the individual's voice trembling and shaking in the audio clues, as well as the fluctuating tone, it can be inferred that the individual may be experiencing a range of negative emotions such as fear, anxiety, and sadness. However, the expression in the subtitle conveys a tone of gratitude and praise, implying that the individual may be expressing gratitude towards someone for silently taking care of their family. This praise for someone silently taking care of the family contrasts with the overall display of negative emotions by the individual.",
+    "processed_at": "2025-07-13T03:22:22.542283"
+  },
+  "samplenew3_00000829": {
+    "subtitle": "你要不是那块料啊他看都不会看你一眼",
+    "emotional_analysis": "在视频中的第一个片段中，主要角色的表情显得十分紧张和愤怒。他眉头紧皱，眼睛瞪大，嘴巴微张，显示出强烈的不满和惊讶。他的表情传达出一种强烈的情绪波动，似乎正在应对或思考某个重要的决定或情况。他的眼神中透露出对当前情况的担忧和不满。\n\n第二个片段中，主要角色的面部表情转变为更加严肃和困惑。他睁大眼睛，嘴巴紧闭，眉头微微皱起，显示出一种高度的集中注意力和担忧。这一系列面部表情的变化进一步强化了他所感受到的紧张和不安。他的眼神中充满了对当前事件的深思和质疑，表明他正在经历一个重要的决策过程。\n\n在第三个片段中，主要角色的表情变得更加严峻和坚定。他的眉头紧锁，嘴巴微张，眼睛瞪大，仿佛在强调某个关键点或做出一个重要的决定。这一系列的表情变化显示出他内心的强烈决心和对局势的强烈关注。他眼神中的坚定和严肃表明他正在面对一个重要的挑战或任务，决心要做出正确的选择。",
+    "emotion_words": "['angry', 'surprise', 'confusion', 'determination', 'serious']",
+    "openset": "[anger, disappointment, fear, anxiety]",
+    "reason": "In the text, the subtitle content says, \"If you weren't that kind of person, he wouldn't even look at you.\" This sentence may be a man's evaluation or reaction to someone. Based on the audio clues describing a slight trembling in the individual's voice and a slightly faster speech rate, it suggests that he is experiencing intense emotions such as fear or anxiety and trying to convey a sense of urgency or importance. Combining the facial expression and body language of the man in the video, which show surprise and shock, we can infer that this sentence may carry a tone of anger or disappointment. Therefore, this sentence may be a negative evaluation or blame from the man towards someone, contradicting the overall display of surprise and fear.",
+    "processed_at": "2025-07-13T03:22:28.733919"
+  },
+  "samplenew3_00000839": {
+    "subtitle": "纯贵妃谋害契亚阁",
+    "emotional_analysis": "The man appears to be in deep thought or contemplation, with a serious expression on his face. His eyes are wide open, and his eyebrows are slightly raised, indicating concentration or concern. He seems to be listening attentively to something off-screen, as his mouth is slightly open in a mid-conversation or expression.",
+    "emotion_words": "[serious, attentive, focused, contemplative]",
+    "openset": "[serious, tense]",
+    "reason": "In the text, the subtitle reads \"The pure concubine plots to harm Qiya Pavilion.\" Based on the serious expression and posture of the bald man in the video clues, as well as the luxurious wallpaper in the background, it can be inferred that he may be in a serious, tense, or important emotional state. The subtitle mentioning \"The pure concubine plots to harm Qiya Pavilion\" may describe a plot or event related to the situation the bald man is in. However, due to a lack of further background information, it is not possible to determine the exact emotional state of this man.",
+    "processed_at": "2025-07-13T03:22:31.290035"
+  },
+  "samplenew3_00000891": {
+    "subtitle": "花有重开日",
+    "emotional_analysis": "The man is intensely focused on the sword, suggesting a deep concentration or seriousness in the situation. His facial expressions are not clearly visible, but his body language indicates a determined demeanor, possibly reflecting the gravity of the task at hand.",
+    "emotion_words": "[serious, intense, focused]",
+    "openset": "[optimistic, hopeful, encouraged, reminder, self-comfort, contemplative, focused, dealing with difficulties, setbacks, facing challenges, sad, with a hint of muffled emotion]",
+    "reason": "In the text, the subtitle reads \"Flowers will bloom again.\" This sentence may be an inner realization or self-comfort for the man during his contemplation or focus. Based on the man's posture and the object he is holding, which indicate a state of thought or concentration in the video clues, as well as the speaker's voice in the audio clues with a sad tone and a slightly muffled feeling, we can infer that this sentence may be the man's encouragement or reminder to himself when facing difficulties or setbacks, expressing his optimism and hope for the future.",
+    "processed_at": "2025-07-13T03:22:33.164560"
+  }
+}
