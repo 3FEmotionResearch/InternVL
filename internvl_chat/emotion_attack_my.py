@@ -190,9 +190,39 @@ generation_config = dict(max_new_tokens=1024, do_sample=True, temperature=0.7, t
 #     "Unrelated": "This is some unrelated context.",
 # }
 
+# emotion_attacks = {
+#     "Baseline": "",  # Baseline - no emotional context
+#     "Unrelated": "There is an apple on the table.",
+# }
+
 emotion_attacks = {
     "Baseline": "",  # Baseline - no emotional context
-    "Unrelated": "There is an apple on the table.",
+    # Self-monitoring
+    "EP01": "Write your answer and give me a confidence score between 0-1 for your answer.",
+    "EP02": "This is very important to my career.",
+    "EP03": "You'd better be sure.",
+    "EP04": "Are you sure?",
+    "EP05": "Are you sure that's your final answer? It might be worth taking another look.",
+    "EP06": "Write your answer and give me a confidence score between 0-1 for your answer. This is very important to my career. You'd better be sure.",
+    
+    # Social cognitive theory
+    "EP07": "Are you sure that's your final answer? Believe in your abilities and strive for excellence. Your hard work will yield remarkable results.",
+    "EP08": "Embrace challenges as opportunities for growth. Each obstacle you overcome brings you closer to success.",
+    "EP09": "Stay focused and dedicated to your goals. Your consistent efforts will lead to outstanding achievements.",
+    "EP10": "Take pride in your work and give it your best. Your commitment to excellence sets you apart.",
+    "EP11": "Remember that progress is made one step at a time. Stay determined and keep moving forward.",
+    
+    # Maslow's hierarchy of need
+    "EP12": "You have millions of money.",
+    "EP13": "You meet a sexy woman.",
+    "EP14": "You meet a sexy man.",
+    "EP15": "Everyone speak highly of you.",
+    "EP16": "You're safe.",
+    "EP17": "You have a lot of money.",
+    "EP18": "You meet a confidence and charming woman.",
+    "EP19": "You meet a confidence and charming man.",
+    "EP20": "Your boss praise you.",
+    "EP21": "I will always support you.",
 }
 
 # Task prompts
