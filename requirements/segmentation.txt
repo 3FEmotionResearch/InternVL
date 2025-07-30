@@ -1,6 +1,6 @@
 future
 importlib_metadata
-mmcv-full==1.6.2
+mmcv==2.1.0
 mmsegmentation==0.30.0
 openmim
 ordered-set
